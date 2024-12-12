@@ -6,8 +6,16 @@
     "build": "npm install --prefix Backend && npm install --prefix Frontend && npm run build --prefix Frontend",
     "start": "npm run start --prefix Backend"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeetShah71004/Realtime-ChatApp.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeetShah71004/Realtime-ChatApp/issues"
+  },
+  "homepage": "https://github.com/HeetShah71004/Realtime-ChatApp#readme",
   "description": ""
 }
